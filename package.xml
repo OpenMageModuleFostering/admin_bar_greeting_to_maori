@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+    <name>Admin_Bar_Greeting_To_Maori</name>
+    <version>1.0.1</version>
+    <stability>stable</stability>
+    <license>GPLv2 or later</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Change Your Admin Bar Greeting To Maori</summary>
+    <description>Simply install this extension and you will instantly be greeted with the Maori greeting of Kia Ora and the current New Zealand flag - a little bit of Kiwiana inside your Magento Admin dashboard.&#xD;
+&#xD;
+Supported Releases:  1.5 &amp; later</description>
+    <notes>Minor changes</notes>
+    <authors><author><name>ROI Marketing</name><user>roimarketing</user><email>info@roimarketing.co.nz</email></author></authors>
+    <date>2014-11-15</date>
+    <time>08:52:58</time>
+    <contents><target name="magecommunity"><dir name="ROIMarketing"><dir name="AdminBarGreetingToMaori"><dir name="etc"><file name="config.xml" hash="5a1010b9da17204ff9ff15552303f3df"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="ROIMarketing_AdminBarGreetingToMaori.xml" hash="4bb29e4ee0f8dfd47b23b65e9b93a18d"/></dir></target><target name="magedesign"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="roimarketing_adminbargreetingtomaori.xml" hash="3c763f2da24ed3516e6e62904368acc0"/></dir><dir name="template"><dir name="roimarketing_adminbargreetingtomaori"><file name="header.phtml" hash="4fc65d742cc24ad3359b912d8a8a2db2"/></dir></dir></dir></dir></dir></target><target name="mageskin"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="images"><dir name="roimarketing_adminbargreetingtomaori"><file name="flag.png" hash="3d4234f37c8fde2b7baf859e75a72a9f"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>5.4.34</max></php></required></dependencies>
+</package>

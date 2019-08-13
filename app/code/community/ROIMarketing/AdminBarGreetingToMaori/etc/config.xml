@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade to newer
+ * versions in the future.
+ *
+ * @category   ROIMarketing
+ * @package    AdminBarGreetingToMaori
+ * @copyright  Copyright (c) 2014 ROIMarketing (http://www.roimarketing.co.nz)
+ * @contacts   info@roimarketing.co.nz
+ */
+ -->
+<config>
+    <modules>
+        <ROIMarketing_AdminBarGreetingToMaori>
+            <name>AdminBarGreetingToMaori</name>
+            <version>1.0.0</version>
+        </ROIMarketing_AdminBarGreetingToMaori>
+    </modules>
+    <adminhtml>
+    <layout>
+        <updates>
+            <ROIMarketing_AdminBarGreetingToMaori>
+                <file>roimarketing_adminbargreetingtomaori.xml</file>
+            </ROIMarketing_AdminBarGreetingToMaori>
+        </updates>
+    </layout>
+    </adminhtml>
+</config>
