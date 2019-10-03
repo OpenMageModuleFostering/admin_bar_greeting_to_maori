@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Admin_Bar_Greeting_To_Maori",
+    "name": "OpenMageModuleFostering\/Admin_Bar_Greeting_To_Maori",
     "type": "magento-module",
     "license": "GPLv2-or-later",
     "homepage": "",
     "description": "Change Your Admin Bar Greeting To Maori",
     "authors": [
-    {
-        "name": "ROI Marketing",
-        "email": "info@roimarketing.co.nz"
-    }
-],
+        {
+            "name": "ROI Marketing",
+            "email": "info@roimarketing.co.nz"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
